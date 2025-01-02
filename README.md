@@ -1,3 +1,7 @@
-## Data Science Project Template
+## Data Science Project / Fitness Tracker
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).# Fitness_Tracker
+
+#Create Python scripts to process, visualize, and model accelerometer and gyroscope data to create a machine learning model that can classify barbell exercises and count repetitions.
+
+
+
