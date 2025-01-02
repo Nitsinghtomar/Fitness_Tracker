@@ -89,3 +89,7 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+#ignore the data in Metamotion folder in raw in data as Metamotion.zip is there
+
+data/raw/Metamotion/
